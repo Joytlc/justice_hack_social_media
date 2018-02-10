@@ -58,3 +58,6 @@ gem "carrierwave", "~> 1.2"
 
 # Added at 2018-02-10 13:32:50 -0500 by christopherarguello:
 gem "acts_as_votable", "~> 0.11.1"
+
+# Added at 2018-02-10 13:44:02 -0500 by christopherarguello:
+gem "materialize-sass", "~> 0.100.2"
