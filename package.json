@@ -1,5 +1,12 @@
 {
   "name": "police_social_media",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery-datetimepicker": "^2.5.17"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Christopheraarguello/justice_hack_social_media.git",
+  "author": "John Doe <johndoe@example.com>",
+  "license": "MIT"
 }
