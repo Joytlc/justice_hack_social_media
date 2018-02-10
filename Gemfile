@@ -52,3 +52,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2018-02-10 13:30:54 -0500 by christopherarguello:
+gem "carrierwave", "~> 1.2"
+
+# Added at 2018-02-10 13:32:50 -0500 by christopherarguello:
+gem "acts_as_votable", "~> 0.11.1"
