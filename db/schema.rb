@@ -12,6 +12,7 @@
 
 ActiveRecord::Schema.define(version: 20180210185554) do
 
+<<<<<<< HEAD
   create_table "posts", force: :cascade do |t|
     t.string "attachment"
     t.text "content"
@@ -19,6 +20,8 @@ ActiveRecord::Schema.define(version: 20180210185554) do
     t.datetime "updated_at", null: false
   end
 
+=======
+>>>>>>> Joy
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false
